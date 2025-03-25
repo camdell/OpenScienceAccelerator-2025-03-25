@@ -5,3 +5,6 @@
 
 data/derived
 .ipynb_checkpoints
+
+# MyST build outputs
+_build
